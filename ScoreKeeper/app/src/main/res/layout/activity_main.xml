@@ -45,8 +45,8 @@
                 android:layout_marginLeft="24dp"
                 android:layout_marginRight="24dp"
                 android:layout_marginTop="8dp"
-                android:textColor="#FFFFFF"
-                android:onClick="onTeamATouchdown" />
+                android:onClick="onTeamATouchdown"
+                android:textColor="#FFFFFF" />
 
             <Button
                 android:id="@+id/teamAFieldGoal"
@@ -56,8 +56,8 @@
                 android:layout_marginLeft="24dp"
                 android:layout_marginRight="24dp"
                 android:layout_marginTop="8dp"
-                android:textColor="#FFFFFF"
-                android:onClick="onTeamAFieldGoal" />
+                android:onClick="onTeamAFieldGoal"
+                android:textColor="#FFFFFF" />
 
             <Button
                 android:id="@+id/teamAExtraPoint"
@@ -67,8 +67,8 @@
                 android:layout_marginLeft="24dp"
                 android:layout_marginRight="24dp"
                 android:layout_marginTop="8dp"
-                android:textColor="#FFFFFF"
-                android:onClick="onTeamAExtraPoint" />
+                android:onClick="onTeamAExtraPoint"
+                android:textColor="#FFFFFF" />
 
             <Button
                 android:id="@+id/teamASafety"
@@ -78,8 +78,8 @@
                 android:layout_marginLeft="24dp"
                 android:layout_marginRight="24dp"
                 android:layout_marginTop="8dp"
-                android:textColor="#FFFFFF"
-                android:onClick="onTeamASafety" />
+                android:onClick="onTeamASafety"
+                android:textColor="#FFFFFF" />
 
         </LinearLayout>
 
@@ -127,8 +127,8 @@
                 android:layout_marginLeft="24dp"
                 android:layout_marginRight="24dp"
                 android:layout_marginTop="8dp"
-                android:textColor="#FFFFFF"
-                android:onClick="onTeamBTouchdown" />
+                android:onClick="onTeamBTouchdown"
+                android:textColor="#FFFFFF" />
 
             <Button
                 android:id="@+id/teamBFieldGoal"
@@ -138,8 +138,8 @@
                 android:layout_marginLeft="24dp"
                 android:layout_marginRight="24dp"
                 android:layout_marginTop="8dp"
-                android:textColor="#FFFFFF"
-                android:onClick="onTeamBFieldGoal" />
+                android:onClick="onTeamBFieldGoal"
+                android:textColor="#FFFFFF" />
 
             <Button
                 android:id="@+id/teamBExtraPoint"
@@ -149,8 +149,8 @@
                 android:layout_marginLeft="24dp"
                 android:layout_marginRight="24dp"
                 android:layout_marginTop="8dp"
-                android:textColor="#FFFFFF"
-                android:onClick="onTeamBExtraPoint" />
+                android:onClick="onTeamBExtraPoint"
+                android:textColor="#FFFFFF" />
 
             <Button
                 android:id="@+id/teamBSafety"
@@ -160,8 +160,8 @@
                 android:layout_marginLeft="24dp"
                 android:layout_marginRight="24dp"
                 android:layout_marginTop="8dp"
-                android:textColor="#FFFFFF"
-                android:onClick="onTeamBSafety" />
+                android:onClick="onTeamBSafety"
+                android:textColor="#FFFFFF" />
         </LinearLayout>
 
     </LinearLayout>
@@ -173,8 +173,8 @@
         android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true"
         android:layout_margin="32dp"
-        android:textColor="#FFFFFF"
-        android:onClick="onReset" />
+        android:onClick="onReset"
+        android:textColor="#FFFFFF" />
 
 </RelativeLayout>
 
